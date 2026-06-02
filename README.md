@@ -15,16 +15,16 @@ Para ativar os gráficos de estatísticas e contadores, substitua todos os campo
   <br />
   <br />
 
-  <h1>Olá! 👋 Eu sou o Kauê</h1>
+  <h1>Olá! 👋 Eu sou o KaueT</h1>
   
   <h3>🎓 Estudante de Ciência da Computação (11º Semestre) | Universidade Federal do Cariri (UFCA)</h3>
   <p>Focado em <b>Inteligência Artificial</b>, <b>Integração de Sistemas</b> e <b>Desenvolvimento Full Stack / Mobile</b>.</p>
 
   <!-- Botões de Ação Rápida -->
-  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/Chriskauet" target="_blank">
     <img src="https://img.shields.io/badge/Visualizar%20Currículo-121212?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Currículo" />
   </a>
-  <a href="mailto:seu-email@gmail.com" target="_blank">
+  <a href="mailto:ckauet.leite@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Entrar%20em%20Contato-121212?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
 
@@ -50,12 +50,6 @@ Aqui estão as tecnologias que domino, seguidas de ferramentas essenciais e fram
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py,js,ts,c,java,go,html,css&perline=8" alt="Linguagens Core" />
 </div>
-
-> **💡 Nota sobre as tecnologias adicionadas:** 
-> * **Python / JavaScript / HTML / CSS**: Minha base principal de desenvolvimento web, scripts e IA.
-> * **TypeScript (TS)**: *Fácil aprendizado!* Traz tipagem estática e segurança ao JavaScript, sendo essencial para projetos modernos.
-> * **C & Java & Go**: Linguagens robustas de alto desempenho para engenharia de software e backend rápido. Go é conhecido por sua extrema simplicidade e facilidade de aprendizado!
-
 <br />
 
 ### 🚀 Frameworks & Desenvolvimento Web/Mobile
@@ -65,12 +59,6 @@ Aqui estão as tecnologias que domino, seguidas de ferramentas essenciais e fram
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,tailwind,vite&perline=6" alt="Frameworks e Bibliotecas" />
 </div>
 
-> **💡 Nota sobre as tecnologias adicionadas:**
-> * **React / React Native**: O ecossistema ideal para criar interfaces web dinâmicas e aplicativos mobile nativos compartilhando a mesma base de código.
-> * **FastAPI**: *Fácil aprendizado!* Um framework Python ultraveloz para criação de APIs que gera documentação automática.
-> * **Node.js & Express**: O caminho mais simples e rápido para criar servidores backend escaláveis usando JavaScript.
-> * **Tailwind CSS & Vite**: *Fácil aprendizado!* Ferramentas modernas que aceleram muito o desenvolvimento visual e a compilação do frontend.
-
 <br />
 
 ### 🗄️ Bancos de Dados & Soluções em Nuvem
@@ -79,12 +67,6 @@ Aqui estão as tecnologias que domino, seguidas de ferramentas essenciais e fram
 <div align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,mongodb&perline=5" alt="Banco de Dados" />
 </div>
-
-> **💡 Nota sobre as tecnologias adicionadas:**
-> * **PostgreSQL & MySQL**: Padrões da indústria para dados estruturados.
-> * **SQLite**: *Fácil aprendizado!* Leve, rápido e ideal para armazenamento local em apps móveis (React Native).
-> * **Supabase**: *Fácil aprendizado!* Uma plataforma BaaS (Backend-as-a-Service) open-source fantástica que acelera a integração de bancos de dados PostgreSQL com APIs prontas em minutos.
-
 <br />
 
 ### ⚙️ Ferramentas, Ambientes e Sistemas
@@ -93,27 +75,8 @@ Aqui estão as tecnologias que domino, seguidas de ferramentas essenciais e fram
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,docker,linux,windows&perline=7" alt="Ferramentas e Sistemas" />
 </div>
-
-> **💡 Nota sobre as tecnologias adicionadas:**
-> * **Git & GitHub / VS Code / IntelliJ**: Minhas principais ferramentas de produtividade e controle de versão.
-> * **Docker**: *Fácil aprendizado!* Permite empacotar qualquer aplicação com todas as suas dependências em containers, facilitando a implantação em servidores.
-> * **Linux & Windows**: Sistemas operacionais que utilizo tanto para desenvolvimento quanto para administração de infraestrutura de redes.
-
 ---
 
-## 💼 Experiência e Projetos Relevantes
-
-### 🏢 **Responsável Técnico** | Nosso Bar (Mauriti - CE)
-*Experiência Profissional*
-* **Desenvolvimento e implantação** de um sistema customizado de gestão de clientes e pedidos, otimizando todo o fluxo operacional do estabelecimento.
-* **Administração e manutenção** da infraestrutura de redes locais e servidores, garantindo alta disponibilidade dos sistemas.
-* **Automação de processos** internos e elaboração periódica de relatórios analíticos de desempenho empresarial.
-
-### 🛠️ **Técnico Autônomo** | Freelance (Região do Cariri - CE)
-*Contínuo*
-* Configuração, estruturação e manutenção de **infraestruturas de redes corporativas e servidores locais**.
-* Diagnóstico ágil de hardware e software, montagem e manutenção preventiva/corretiva de computadores e notebooks.
-* Resolução independente de incidentes técnicos com foco em performance e segurança.
 
 ### 🎓 **Destaques Acadêmicos (UFCA)**
 * **Integração de Sistemas & Inteligência Artificial**: Projetos voltados para integração de sistemas contábeis e administrativos com modelos avançados de IA (Claude AI, OpenAI) para análise inteligente de dados de negócios.
@@ -142,17 +105,13 @@ Aqui estão as tecnologias que domino, seguidas de ferramentas essenciais e fram
 
 <div align="center">
 
-  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
+  <a href="www.linkedin.com/in/christian-kauet-camilo-martins-leite-b00595276" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-121212?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:seu-email@gmail.com" target="_blank">
+  <a href="mailto:ckauet.leite@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/GMAIL-121212?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://instagram.com/SEU_INSTAGRAM" target="_blank">
+  <a href="https://instagram.com/c.kauet" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-121212?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://youtube.com/SEU_CANAL" target="_blank">
-    <img src="https://img.shields.io/badge/YOUTUBE-121212?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-
 </div>
