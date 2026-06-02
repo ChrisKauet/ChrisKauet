@@ -9,8 +9,8 @@ Para ativar os gráficos de estatísticas e contadores, substitua todos os campo
 <div align="center">
 
   <!-- Badges de Visitas e Seguidores -->
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_DO_GITHUB&color=24292e&style=for-the-badge&logo=github" alt="Visualizações do Perfil" />
-  <img src="https://img.shields.io/github/followers/SEU_USUARIO_DO_GITHUB?label=Seguidores&logo=github&style=for-the-badge&color=24292e" alt="Seguidores" />
+  <img src="https://komarev.com/ghpvc/?username=Chriskauet&color=24292e&style=for-the-badge&logo=github" alt="Visualizações do Perfil" />
+  <img src="https://img.shields.io/github/followers/Chriskauet?label=Seguidores&logo=github&style=for-the-badge&color=24292e" alt="Seguidores" />
 
   <br />
   <br />
