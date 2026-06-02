@@ -15,7 +15,7 @@ Para ativar os gráficos de estatísticas e contadores, substitua todos os campo
   <br />
   <br />
 
-  <h1>Olá! 👋 Eu sou o KaueT</h1>
+  <h1>Olá! 👋 Eu sou o Kauet</h1>
   
   <h3>🎓 Estudante de Ciência da Computação (11º Semestre) | Universidade Federal do Cariri (UFCA)</h3>
   <p>Focado em <b>Inteligência Artificial</b>, <b>Integração de Sistemas</b> e <b>Desenvolvimento Full Stack / Mobile</b>.</p>
