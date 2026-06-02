@@ -21,8 +21,8 @@ Para ativar os gráficos de estatísticas e contadores, substitua todos os campo
   <p>Focado em <b>Inteligência Artificial</b>, <b>Integração de Sistemas</b> e <b>Desenvolvimento Full Stack / Mobile</b>.</p>
 
   <!-- Botões de Ação Rápida -->
-  <a href="https://linkedin.com/in/Chriskauet" target="_blank">
-    <img src="https://img.shields.io/badge/Visualizar%20Currículo-121212?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Currículo" />
+  <a href="https://github.com/ChrisKauet/ChrisKauet/raw/main/curriculo_christian_kauet.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄%20Visualizar%20Currículo-121212?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Currículo" />
   </a>
   <a href="mailto:ckauet.leite@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Entrar%20em%20Contato-121212?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
