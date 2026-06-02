@@ -90,10 +90,10 @@ Aqui estão as tecnologias que domino, seguidas de ferramentas essenciais e fram
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_DO_GITHUB&show_icons=true&theme=dark&hide_border=true&bg_color=121212&title_color=ffffff&text_color=b3b3b3&icon_color=4f46e5" alt="Estatísticas do GitHub" height="180px" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Chriskauet&show_icons=true&theme=dark&hide_border=true&bg_color=121212&title_color=ffffff&text_color=b3b3b3&icon_color=4f46e5" alt="Estatísticas do GitHub" height="180px" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_DO_GITHUB&layout=compact&theme=dark&hide_border=true&bg_color=121212&title_color=ffffff&text_color=b3b3b3" alt="Linguagens mais Usadas" height="180px" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chriskauet&layout=compact&theme=dark&hide_border=true&bg_color=121212&title_color=ffffff&text_color=b3b3b3" alt="Linguagens mais Usadas" height="180px" />
       </td>
     </tr>
   </table>
